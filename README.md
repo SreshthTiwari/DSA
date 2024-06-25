@@ -1,6 +1,6 @@
 # Learning DSA
 
-## Day 1 24/06/24
+## Day 1 24/06
 
 - Fundamentals
 
