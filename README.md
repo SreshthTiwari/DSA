@@ -5,3 +5,7 @@
 Learnt fundamentals
 
 ## Day 2 25/06
+
+- Sorting Algorithms:
+  - Bubble Sort
+  - Selection Sort
