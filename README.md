@@ -1,4 +1,4 @@
-# Learning DSA
+# DSA Notes
 
 ## Day 1 24/06
 
