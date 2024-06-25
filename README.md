@@ -12,3 +12,5 @@
   - Selection Sort
 
 - Runtime Complexity
+
+- Big O Notation
