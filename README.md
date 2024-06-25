@@ -1,4 +1,4 @@
-# DSA Notes
+# DSA Progress
 
 ## Day 1 24/06
 
