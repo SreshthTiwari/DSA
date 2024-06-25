@@ -2,7 +2,7 @@
 
 ## Day 1 24/06/24
 
-Learnt fundamentals
+- Fundamentals
 
 ## Day 2 25/06
 
