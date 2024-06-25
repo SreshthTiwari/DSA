@@ -1,4 +1,4 @@
-# find max normal
+# Find max number in list (normally)
 
 def findmax(seq):
     max_number = seq[0]
