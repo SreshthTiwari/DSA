@@ -10,6 +10,10 @@
 
   - Bubble Sort
   - Selection Sort
+  - (Skipped coding, understood concept):
+    - Insertion sort
+    - Merge sort
+    - Quick sort
 
 - Runtime Complexity
 
